@@ -1,0 +1,11 @@
+lch:
+    media_bundle:
+        image:
+            add:
+                button: Ajouter
+            name: Nom
+            alt: Texte Alternatif
+            file: Fichier
+            modal:
+                close: Fermer
+                save: Enregistrer
